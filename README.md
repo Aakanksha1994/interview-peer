@@ -2,7 +2,7 @@
 
 An AI-powered platform for practicing Product Management case study interviews with real-time feedback.
 
-![PM Mock Interview Demo](./screenshot.png)
+![PM Mock Interview Demo](./Peer%20mock.jpeg)
 
 ## 🚀 Features
 
