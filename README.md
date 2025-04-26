@@ -2,7 +2,7 @@
 
 An AI-powered platform for practicing Product Management case study interviews with real-time feedback.
 
-![PM Mock Interview Demo](https://placehold.co/600x400?text=PM+Mock+Interview+Demo)
+![PM Mock Interview Demo](./screenshot.png)
 
 ## 🚀 Features
 
